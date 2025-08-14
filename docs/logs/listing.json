@@ -1,4 +1,21 @@
 {
+  "2025-08-14T19-10-32-04-00_theory-of-mind_UoXAz48kuqraZ9Qf72qT9C.eval": {
+    "eval_id": "hwnP65zxFpySTMZBLMXRfg",
+    "run_id": "WS6gEF83Vai9JCZJq4R3xo",
+    "task": "theory_of_mind",
+    "task_id": "UoXAz48kuqraZ9Qf72qT9C",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "model": "mockllm/model",
+    "started_at": "2025-08-14T19:10:32-04:00",
+    "completed_at": "2025-08-14T19:10:32-04:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
   "2025-08-14T14-19-51-07-00_theory-of-mind_kQGpijrPfzzgFmMePfE3wB.eval": {
     "eval_id": "ARfrYvHRfJZRsK26hxXxp5",
     "run_id": "HnE8EvwvqgGydbvuat4RwC",
